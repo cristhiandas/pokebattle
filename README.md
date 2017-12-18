@@ -1,6 +1,6 @@
-# PokeBattle:
+# PokeBattle: 🥊🎮 
 
-PokeBattle is a re-incarneted 'Tekken' battle game based on the October coding Cohort at Makers Academy. The duration of this project was for a week.
+PokeBattle is a re-incarneted 'Tekken' battle game based on the October coding Cohort at Makers Academy. PokeBattle was done with React as the front end, and Rails as the back end, and the duration of this project was for a week.
 
 ## How To Use:
 
@@ -41,9 +41,9 @@ brainstormed many, these are the ones that were acheived during the week.
 
 ## Team Members:  
 
-- Christian Da Silva (https://github.com/cristhiandas)
-- Dania Mah (https://github.com/thatdania)
-- Lewis Youl (https://github.com/LewisYoul)
-- Marco Vanali (https://github.com/Vanals)
-- Oleg Grushetskyy (https://github.com/olegfkl)
-- Tabish Raza (https://github.com/tabrza)
+- 🐿 Christian Da Silva (https://github.com/cristhiandas)
+- 🐱 Dania Mah (https://github.com/thatdania)
+- 🐸 Lewis Youl (https://github.com/LewisYoul)
+- 🐈 Marco Vanali (https://github.com/Vanals)
+- 🐻 Oleg Grushetskyy (https://github.com/olegfkl)
+- 🦅 Tabish Raza (https://github.com/tabrza)
