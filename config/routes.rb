@@ -5,5 +5,11 @@ Rails.application.routes.draw do
     end
   end
 
+  namespace :api do
+    namespace :action_pictures do
+      resources :action_pictures, only: [:index]
+    end
+  end
+
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end

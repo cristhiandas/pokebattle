@@ -1,0 +1,2 @@
+class ActionPicture < ApplicationRecord
+end

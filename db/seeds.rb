@@ -13,7 +13,7 @@ marco.actions << Action.create!(name: "FuckOff", damage: 80)
 marco.actions << Action.create!(name: "I'm Correct", damage: 70)
 
 dania = Player.create!(name: "Dania", hp: 70, strength: 130)
-dania.image = Rails.root.join("public/uploads/player/Dania.jpg").open
+dania.image = Rails.root.join("public/uploads/player/trial.gif").open
 dania.save!
 dania.actions << Action.create!(name: "Aiiii", damage: 170)
 dania.actions << Action.create!(name: "Whine to Work", damage: 120 )
@@ -35,3 +35,12 @@ lewis.image = Rails.root.join("public/uploads/player/Lewis.jpg").open
 lewis.save!
 lewis.actions << Action.create!(name: "BackHandSpin", damage: 140)
 lewis.actions << Action.create!(name: "Flounder", damage: 50)
+
+ActionPicture.create(image: "uploads/actions/aiiiii.png")
+ActionPicture.create(image: "uploads/actions/brapbrap.png")
+ActionPicture.create(image: "uploads/actions/burn!.png")
+ActionPicture.create(image: "uploads/actions/codamn.png")
+ActionPicture.create(image: "uploads/actions/kablam!.png")
+ActionPicture.create(image: "uploads/actions/oooooh.png")
+ActionPicture.create(image: "uploads/actions/pow.png")
+ActionPicture.create(image: "uploads/actions/smash.png")
