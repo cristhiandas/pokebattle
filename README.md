@@ -4,7 +4,7 @@ PokeBattle is a re-incarneted 'Tekken' battle game based on the October coding C
 
 Note: This is the back-end of the project. The other half is here:   https://github.com/LewisYoul/pokebattle
 
-![](public/images/home.png)
+![](public/uploads/player/image/home.png)
 
 ## How To Use:
 
@@ -30,7 +30,7 @@ bundle install
 ```
 bin/rails rake db:setup
 ```
-5. Download CORS on google Chrome as a google Chrome extension. Make sure it's green 
+5. Download CORS on google Chrome as a google Chrome extension. Make sure it's green
 ```
 https://chrome.google.com/webstore/detail/cors-toggle/jioikioepegflmdnbocfhgmpmopmjkim?hl=en
 ```
