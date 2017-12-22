@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   namespace :api do
     namespace :players do
       resources :players, only: [:index]
+      resources :images, only: [:index]
     end
   end
 
