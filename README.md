@@ -44,17 +44,7 @@ bin/rails s -p 4000
 
 ## Approach:
 
-Inspired by a Tekken Game and our cohort members at Makers Academy, we initially drew out an MVP to setup the basics of what made our
-game unique. From there, whilst working in pairs, we expanded into the other User stories we achieved (that is listed down below).
-
-![](public/images/2.jpg)
-
-![](public/images/3.jpg)
-
-![](public/images/4.jpg)
-
-Here, we always had retros to write down the list of things to do for tomorrow and cherish the stuff that we did today. This is how the team
-stayed focused.
+Inspired by a Tekken Game and our cohort members at Makers Academy, we initially drew out an MVP to setup the basics of what made our game unique. From there, whilst working in pairs, we expanded into the other User stories we achieved (that is listed down below).
 
 ### Technologies
 
