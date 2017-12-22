@@ -15,11 +15,11 @@ marco.actions << Action.create!(name: "I'm Correct", damage: 70)
 dania = Player.create!(name: "Dania", hp: 70, strength: 130)
 dania.image = Rails.root.join("public/uploads/player/trial.gif").open
 dania.save!
-dania.actions << Action.create!(name: "Aiiii", damage: 170)
+dania.actions << Action.create!(name: "CSS Powa", damage: 170)
 dania.actions << Action.create!(name: "Whine to Work", damage: 120 )
 
 # tabish = Player.create!(name: "Tabish", hp: 80, strength: 120)
-# tabish.image = Rails.root.join("public/uploads/player/Tabish.jpg").open
+# tabish.image = Rails.root.join("public/uploads/player/goggles.jpg").open
 # tabish.save!
 # tabish.actions << Action.create!(name: "Smash", damage: 140)
 # tabish.actions << Action.create!(name: "Competitive strike", damage: 100)
